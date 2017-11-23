@@ -10,6 +10,10 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
+            // git test example
+            Console.WriteLine("Git Example App Demo !");  //Firstly written 
+            Console.ReadLine();
+
         }
     }
 }
